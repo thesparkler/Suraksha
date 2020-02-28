@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">CareVault</string>
+    <string name="title_activity_navigation_alert">Alert</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="home">Home</string>
+    <string name="contacts">Add Contacts</string>
+    <string name="savedcontacts">Saved Contacts</string>
+    <string name="loc">Location</string>
+    <string name="about">About Us</string>
+    <string name="help">Help</string>
+
+    <string name="help_desk">Help Desk</string>
+    <string name="mute">mute</string>
+    <string name="speaker">speaker</string>
+    <string name="introhelp">OnePlus Safety is a handy mobile application developed with two modules.It serves as both,a personal safety app and complaint lodging app.</string>
+    <string name="introhome">OnePlus Safety is a handy mobile application developed with two modules.It serves as both,a personal safety app and complaint lodging app. \nAlert helps you to quickly alert people important to you when you are feeling unsafe. It sends your present location with a message asking for help.\nComplaint helps you mail details about the wrong-doings around you to the respective authority keeping your identity as confidential</string>
+    <string name="corruption">Corruption is a form of dishonest or unethical conduct by a person entrusted with a position of authority, often to acquire personal benefit. \nCorruption may include many activities including bribery and embezzlement, though it may also involve practices that are legal in many countries.</string>
+<string name="dmv">Domestic violence is a pattern of behavior which involves violence or other abuse by one person against another in a domestic setting, such as in marriage or cohabitation.
+    \nBehind closed doors of homes all across our country, people are being tortured, beaten and killed. It is happening in rural areas, towns, cities and in metropolitan as well. It is crossing all social classes, genders, racial lines and age groups. It is becoming a legacy being passed on from one generation to another. But offences against people which reflects the pathetic reality that people are just not safe and secure anywhere.
+\nIf you feel you are a victim of domestic violence, talk about it to someone you trust—a friend, relative, parent or colleague and take action by sending us mail.</string>
+<string name="eve">Eve teasing is a huge issue in many metropolitan cities of India. .A large percentages of Indians have faced or are facing this menace. Whether it is a public transport system or public places or shopping malls or multiplexes, people find themselves vulnerable to the threat of eve teasing everywhere. Eve teasing is complex problem and it requires more attention that what it has actually got.
+\nTo protect the person from eve-teasing the administration is taking several measures. At present, the condition is such that a person do not come to register their complaints of eve-teasing due to societal pressure and fear of being infamous.
+So by this application anonymously without hesitation person can lodge their complaints.
+ </string>
+    <string name="threat">A threat is a communicated intent to inflict harm or loss on another person. A threat is considered an act of coercion.
+ \nCoercion by unjustifiably threatening to reveal to another person or to the public substantially true information that is embarrassing, injurious, or incriminating. Although revealing this information is not in itself a crime, blackmail that comes in the form of demanding money in exchange for withholding information is considered criminal behavior.
+  \nIn such situations one should not hesitate to raise voice against the wrongs being done. This app will help you do so without fear.</string>
+    <string name="theft">In common usage, theft is the taking of another persons property without that persons permission or consent with the intent to deprive the rightful owner of it. Also referred as Larceny.
+    \nThe taking element requires the offender to have actual physical control of the property at some point, even if that control is only momentary. The carrying away element requires the property to be moved from its original position.
+    \nLarceny is a specific intent crime, meaning that it requires the accused to have the criminal intent to steal or deprive the owner of the property for a lengthy period of time.</string>
+
+
+    <string name="askhelp">When you are feeling unsafe,quickly press the power button thrice and inform your Alert Contacts with information like current location and predefined messages about your situation.</string>
+<string name="privacypolicy">By using our Service you understand and agree that we are providing you a platform to reach out to police or your well-wishers when in danger with just 3 clicks.\n Your current location would be sent with the message.\n This means that the emergency contacts would be able to know you present location.\n
+    Our policy applies to all visitors,users and others who access the Service</string>
+<string name="infowecollect">Information you provide us:\n
+    -> Your location\n
+    -> Emergency Contacts\n
+    -> Messages sent \n </string>
+<string name="cookies"> -> When you visit the Service, we may use cookies and similar technologies like pixels,web becons and local storage to collect information. \n
+          ->We may ask advertisers or other partners to serve ads or services to your devices,which may use cookies and similar technologies. \n</string>
+    <string name="contactus">If you have any questions about Privacy Policy or the Service, please find appropriate support channel in Help Center at which to contact us.</string>
+    <string name="title_activity_navigation_complaint">NavigationComplaint</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="alertinfo">It is a personal safety app designed to keep you and your friends safer 24/7. It’s packed with features for both everyday safety and real emergencies, making it the ultimate safety tool for you and everyone you love.</string>
+
+<string name="aboutus"> OnePlus Safety has been created out of the growing concern for Public Safety. Everyday newspapers and news channels are filled with articles of kidnappings, rapes and murders. And these are just the accounted ones. The need for preventive measures is of the utmost importance, both at a public level as well as at a personal level.
+ \nThis is where we step in. OnePlus Safety aims to make you feel safer and secure while you, your kids, family and close ones are out in public, away from the safety of their own home. CareVault is targeted at women, teens and children who have to travel between lonely areas, have to use public transport and have to be in any such circumstances where they may be vulnerable to harm. Concern for the safety of loved ones is something we understand and take very seriously, and we express this concern in the form of a revolutionary application which only has to be installed on your regular Android based smartphone
+   \nIn case of an emergency OnePlus Safety-Alert immediately sends out alerts to all the listed contacts with the GPS coordinates of the phone via SMS and CareVault-Complaint sends out the complaint to the NGO/Concerned Authority via Email.</string>
+<string name="complainthome">Complaint Management System provides an online way of solving problems faced by public anonymously and helping the society be a better and safe place to live.\nAdmin will not reveal your identity but will have your email info
+</string>
+    <string name="attach">Attach</string>
+</resources>
